@@ -1,0 +1,1 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" ><suite name="demo" verbose="1" parallel="tests" thread-count="1" preserve-order="true">    <test name = "TestCase" >        <classes>            <class name="demo.TestCase_Demo"/>        </classes>    </test></suite>
